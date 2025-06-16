@@ -19,7 +19,7 @@ Este repositorio contiene los archivos y configuraciones necesarias para realiza
   - `/proc` → `proc.tar.gz`
   - `/www_dir` → `www_dir.tar.gz`
   - `/backup_dir` → `backup_dir.tar.gz`
-  - `/var` → dividido en partes: `var.tar.gz.part_aa`, `var.tar.gz.part_ab`, etc.
+  - `/var` → dividido en partes: `var.tar.gz.part_aa`, `var.tar.gz.part_ab`.
 
 ## Instrucciones
 
