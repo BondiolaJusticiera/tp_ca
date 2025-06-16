@@ -1,6 +1,6 @@
 # Backup Automático en Debian
 
-Este repositorio contiene los archivos y configuraciones necesarias para realizar backups automáticos en un sistema Debian, utilizando scripts personalizados y tareas programadas con `cron`.
+Este repositorio contiene los archivos y configuraciones necesarias para realizar backups automáticos en Debian, con scripts personalizados y tareas programadas con `cron`.
 
 ## grupo 7
 
